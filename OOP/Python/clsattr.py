@@ -21,6 +21,10 @@ class Students:
                 self.compulsory.append(c)
     @classmethod
     def regSub(cls):
+        ## To findout the subjects where students are not registered in it
+        pass
+    @staticmethod
+    def stat():
         pass
 if __name__ == "__main__":
     std = Students("Michael", "Yousuf", "Bioinformatics")

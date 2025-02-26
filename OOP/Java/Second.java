@@ -1,7 +1,6 @@
-public class Employee {
-	int x = 5;
+class Second {
  public static void main(String[] args) {
-  Employee emp1 = new Employee();
+  Main emp1 = new Main();
   System.out.println(emp1.x);
  }
 }
